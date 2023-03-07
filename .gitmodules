@@ -1,0 +1,3 @@
+[submodule "dev-ssg"]
+	path = dev-ssg
+	url = https://github.com/cmasfo-github/cmasfo-dev
